@@ -5,7 +5,7 @@ This project will serve as an opportunity to implement Batch Gradient Descent, S
 
 Once this is done, and relevant comparisons between the three are made, optimizations such as momentum and Nesterov accelerated gradient are will be made.
 
-TODO: Derivation of gradient and explanations for acceleration and momentum.
+TODO: explanations for acceleration and momentum.
 
 With time, do ADAGRAD.
 
